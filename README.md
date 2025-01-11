@@ -2,6 +2,7 @@ Stem and leaf
 
 Box Plot
 https://www.statskingdom.com/boxplot-maker.html
+https://www.hackmath.net/en/calculator/five-number-summary
 
 Trimean
 Trimean = (Q1 + 2Q2 + Q3)/4
