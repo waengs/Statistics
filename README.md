@@ -10,6 +10,9 @@ Trimean = (Q1 + 2Q2 + Q3)/4
 https://www.calculatorsoup.com/calculators/statistics/quartile-calculator.php
 
 Geometric Mean/Percentage Returns
+
+
+
 https://www.statskingdom.com/geometric-mean-calculator.html
 
 Trimmed Mean
@@ -44,5 +47,6 @@ two-way ANOVA - https://atozmath.com/CONM/Anova.aspx?q=anova2&q1=78%2382%2385%2c
 Chi Square Test
 https://www.socscistatistics.com/tests/chisquare2/default2.aspx
 If the p-value is < 0.05, conclude that they are dependent (related). If p-value ≥ 0.05, conclude they are independent.
+
 
 
