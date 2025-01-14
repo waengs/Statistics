@@ -4,14 +4,12 @@ Box Plot
 https://www.statskingdom.com/boxplot-maker.html
 https://www.hackmath.net/en/calculator/five-number-summary
 
+
 Trimean
 Trimean = (Q1 + 2Q2 + Q3)/4
 https://www.calculatorsoup.com/calculators/statistics/quartile-calculator.php
 
 Geometric Mean/Percentage Returns
-
-
-
 https://www.statskingdom.com/geometric-mean-calculator.html
 
 Trimmed Mean
@@ -35,10 +33,12 @@ https://www.calculator.net/standard-deviation-calculator.html?numberinputs=70%2C
 
 T-Test
 https://www.omnicalculator.com/statistics/t-test
+https://www.allmath.com/t-critical-value.php
 
 ANOVA
 https://www.socscistatistics.com/tests/anova/default2.aspx
 https://www.standarddeviationcalculator.io/anova-calculator
+https://www.danielsoper.com/statcalc/calculator.aspx?id=4
 two-way ANOVA - https://atozmath.com/CONM/Anova.aspx?q=anova2&q1=78%2382%2385%2c90%2388%2392%3b72%2375%2374%2c85%2380%2384%3b65%2368%2370%2c78%2375%2380%60%60&dp=4&do=1#PrevPart
 
 Chi Square Test
